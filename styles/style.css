@@ -162,7 +162,6 @@
 }
 
 .table__heading{
-  font-weight: bold;
   font-size: 24px;
   font-weight: 600;
   line-height: 1.15;
@@ -253,7 +252,7 @@
 .kaufman__triangle{
   position: absolute;
   top: 0;
-  right: -210px; 
+  right: -210px;
   z-index: 0;
   width: 877px;
   height: 877px;
@@ -314,7 +313,7 @@
 .footer__column-link{
   display: flex;
   color:#fff;
-  text-decoration: none;  
+  text-decoration: none;
   font-size: 18px;
   font-weight: normal;
   line-height: 30px;
