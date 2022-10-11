@@ -85,11 +85,6 @@
   z-index: 2;
 }
 
-section{
-  border: 2px solid blue;
-
-}
-
 .description{
   margin-top: 100px;
   display: flex;
@@ -284,7 +279,7 @@ section{
 }
 
 .footer__columns{
-  min-height: 250px;
+  min-height: 350px;
   width: 90%;
   display: flex;
   justify-content: space-between;
