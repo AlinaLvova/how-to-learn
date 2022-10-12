@@ -321,3 +321,7 @@
   font-weight: normal;
   line-height: 30px;
 }
+
+.footer__social-icon{
+  margin-right: 10px;
+}
