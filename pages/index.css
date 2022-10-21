@@ -1,5 +1,7 @@
 @import url(../vendor/normalize.css);
 
+@import url(../page/animation-rotation/animation-rotation.css);
+
 @import url(../page/page.css);
 
 @import url(../page/header/header.css);
@@ -52,3 +54,30 @@
 @import url(../page/content/kaufman/table/__text/__theme/_dark/table__text__theme_dark.css);
 @import url(../page/content/kaufman/table/section-title/_theme/_dark/section-title_theme_dark.css);
 @import url(../page/content/kaufman/table/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
+
+@import url(../page/content/techniques/techniques.css);
+@import url(../page/content/techniques/cards/cards.css);
+@import url(../page/content/techniques/cards/__description/card__description.css);
+@import url(../page/content/techniques/cards/__image/card__image.css);
+@import url(../page/content/techniques/cards/__item/card_item.css);
+@import url(../page/content/techniques/cards/__item/_center/card__item_center.css);
+@import url(../page/content/techniques/cards/__title/card__title.css);
+
+@import url(../page/content/video/video.css);
+@import url(../page/content/video/__iframe/video__iframe.css);
+@import url(../page/content/video/__iframes/video__iframes.css);
+@import url(../page/content/video/__position/video__position.css);
+
+@import url(../page/content/oakley/oakley.css);
+
+@import url(../page/content/khan/khan.css);
+@import url(../page/content/khan/__author/khan__author.css);
+@import url(../page/content/khan/__book-container/khan__book-container.css);
+@import url(../page/content/khan/__book-pic/khan__book-pic.css);
+@import url(../page/content/khan/__buy-link/khan__buy-link.css);
+@import url(../page/content/khan/__container/khan__container.css);
+@import url(../page/content/khan/__quote/khan__quote.css);
+@import url(../page/content/khan/__quote-author/khan__quote-author.css);
+@import url(../page/content/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../page/content/khan/__title/khan__title.css);
+
