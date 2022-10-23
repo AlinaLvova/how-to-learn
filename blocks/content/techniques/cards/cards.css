@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    list-style-type: none;
     flex-wrap: wrap;
     width: 920px;
     margin: 0;
