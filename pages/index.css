@@ -85,5 +85,11 @@
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/content/resources/__link/resources__link.css);
+@import url(../blocks/content/resources/__logo/resources__logo.css);
+@import url(../blocks/content/resources/__logo/_arzamas/resources__logo_arzamas.css);
+@import url(../blocks/content/resources/__logo/_nplus1/resources__logo_nplus1.css);
+@import url(../blocks/content/resources/__logo/_polka/resources__logo_polka.css);
+@import url(../blocks/content/resources/__logo/_strelka/resources__logo_strelka.css);
 
 @import url(../blocks/change-opacity/change-opacity.css);
+
