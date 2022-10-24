@@ -1,7 +1,6 @@
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/rotation/__animation/rotation__animation.css);
 
 @import url(../blocks/page/page.css);
 
@@ -38,6 +37,8 @@
 @import url(../blocks/content/digits/section-subtitle.css);
 @import url(../blocks/content/digits/table/table.css);
 @import url(../blocks/content/digits/table/__cell/table__cell.css);
+@import url(../blocks/content/digits/table/__cell/_theme/_dark/table__cell_theme_dark.css);
+@import url(../blocks/content/digits/table/__cell/_theme/_dark/table__cell_theme_dark.css);
 @import url(../blocks/content/digits/table/__heading/table__heading.css);
 @import url(../blocks/content/digits/table/__text/table__text.css);
 
@@ -49,8 +50,6 @@
 
 @import url(../blocks/content/kaufman/kaufman.css);
 @import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/content/kaufman/table/__cell/_theme/_dark/table__cell_theme_dark.css);
-@import url(../blocks/content/kaufman/table/__cell/_theme/_dark/table__cell_theme_dark.css);
 @import url(../blocks/content/kaufman/table/__heading/_theme/_dark/table__heading_theme_dark.css);
 @import url(../blocks/content/kaufman/table/__text/__theme/_dark/table__text__theme_dark.css);
 @import url(../blocks/content/kaufman/table/section-title/_theme/_dark/section-title_theme_dark.css);
