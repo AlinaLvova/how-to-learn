@@ -10,5 +10,5 @@
     position: relative;
     top: 50px;
     z-index: 2;
-    height: 316px;
+    column-gap: 20px
 }
