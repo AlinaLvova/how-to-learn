@@ -8,7 +8,6 @@
 @import url(../blocks/cards/__description/card__description.css);
 @import url(../blocks/cards/__image/card__image.css);
 @import url(../blocks/cards/__item/card__item.css);
-@import url(../blocks/cards/__item/_align/cards__item_align_center.css);
 @import url(../blocks/cards/__title/card__title.css);
 
 @import url(../blocks/description/description.css);
