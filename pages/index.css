@@ -62,7 +62,7 @@
 @import url(../blocks/content/techniques/cards/__description/card__description.css);
 @import url(../blocks/content/techniques/cards/__image/card__image.css);
 @import url(../blocks/content/techniques/cards/__item/card_item.css);
-@import url(../blocks/content/techniques/cards/__item/_center/card__item_center.css);
+@import url(../blocks/content/techniques/cards/__item/_align/_center/cards__item_align_center.css);
 @import url(../blocks/content/techniques/cards/__title/card__title.css);
 
 @import url(../blocks/content/video/video.css);
@@ -92,5 +92,5 @@
 @import url(../blocks/content/resources/__logo/_polka/resources__logo_polka.css);
 @import url(../blocks/content/resources/__logo/_strelka/resources__logo_strelka.css);
 
-@import url(../blocks/change-opacity/change-opacity.css);
+@import url(../blocks/link/link.css);
 
